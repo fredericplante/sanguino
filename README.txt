@@ -24,6 +24,5 @@ Source:
   you are looking for pre 1.0 code it is in the legacy repository.
 
 More Info:
-  Sanguino: http://sanguino.cc/
   Arduino: http://www.arduino.cc/
   Google Code Project: http://code.google.com/p/sanguino
